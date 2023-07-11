@@ -33,6 +33,7 @@ The SANS webcast on Sigma contains a very good 20 min introduction to the projec
 
 * Describe your detection method in Sigma to make it shareable
 * Write your SIEM searches in Sigma to avoid a vendor lock-in
+* Help your testing team by providing a detailed and vendor agnostic rule
 * Share the signature in the appendix of your analysis along with IOCs and YARA rules
 * Share the signature in threat intel communities - e.g. via MISP
 * Provide Sigma signatures for malicious behaviour in your own application
